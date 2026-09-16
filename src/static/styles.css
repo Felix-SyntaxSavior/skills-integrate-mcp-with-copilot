@@ -28,6 +28,18 @@ header h1 {
   margin-bottom: 10px;
 }
 
+#auth-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+#auth-status {
+  font-size: 14px;
+}
+
 main {
   display: flex;
   flex-wrap: wrap;
